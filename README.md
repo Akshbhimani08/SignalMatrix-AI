@@ -287,6 +287,4 @@ Then open `http://localhost:8501` in your browser.
 ## Author
 
 **Aksh Bhimani**
-SignalMatrix AI — Educational Edition 2025
-
-Made with ❤️ for learning financial AI and time-series forecasting.
+Made for learning financial AI and time-series forecasting.
