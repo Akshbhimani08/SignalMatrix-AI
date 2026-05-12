@@ -1,4 +1,4 @@
-# 📈 SignalMatrix AI — Multi-Step Market Forecasting System
+# SignalMatrix AI — Multi-Step Market Forecasting System
 
 > AI-Powered 10-Day NIFTY 50 Stock Price Forecasting & Strategy Evaluation Platform
 
