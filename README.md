@@ -287,4 +287,6 @@ Then open `http://localhost:8501` in your browser.
 ## Author
 
 **Aksh Bhimani**
+
+---
 Made for learning financial AI and time-series forecasting.
