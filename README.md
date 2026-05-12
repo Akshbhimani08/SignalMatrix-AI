@@ -10,8 +10,6 @@
 [![NSE](https://img.shields.io/badge/Data-NSE%20India%20NIFTY50-blue)](https://www.nseindia.com/report-detail/eq_security)
 [![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
-> ⚠️ **Educational Use Only** — This model is developed strictly for educational purposes. Do NOT use it for real-world financial decisions.
-
 ---
 
 ## Problem Statement
