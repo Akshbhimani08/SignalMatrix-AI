@@ -18,7 +18,7 @@ Retail investors and analysts often lack accessible tools to forecast short-term
 
 ---
 
-## Live Demo(Linkedin post with Live working Video)
+## Live Demo(Linkedin post)
 
 -> [Click here to view the live working & project's url](https://www.linkedin.com/feed/update/urn:li:activity:7429752733701828608/)
 
